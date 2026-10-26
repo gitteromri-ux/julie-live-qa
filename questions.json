@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "question": "I'm busy, older, and starting from zero. What is the smallest useful change I can make?",
+    "theme": "Foundations first · Why, Intention, Resources",
+    "bullets": [
+      "Start with your life, not somebody else's timetable. You do not need to copy an entire longevity routine on Monday. The useful question is: what is one small thing that fits the day you actually have?",
+      "Use the three questions: Why, Intention, Resources. Your why might be staying independent or keeping up with family. Your intention is the direction. Your resources are your real time, energy, money, support, and physical ability.",
+      "For a practical starting point, choose a short, comfortable walk after one meal, if walking is safe for you. Put it beside an existing habit. Five minutes is a starting appointment, not a test you must pass.",
+      "Notice what you can repeat for a week before adding more. Healthy aging includes movement, food, sleep, and mental wellbeing; it is not one expensive treatment. Starting later does not mean that useful change is off the table.",
+      "If you have symptoms, recent surgery, significant pain, or an unstable condition, ask your healthcare team what starting safely looks like. The aim is a foundation that supports your life, not another demanding project that makes you feel behind."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIA - What Do We Know About Healthy Aging?",
+        "url": "https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging"
+      },
+      {
+        "label": "Julie deck - slides 4, 7, 21",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely audience question, not an empirical ranking: the full protocol can feel overwhelming. Deck slides 4 and 7 establish the cake foundations; slide 21 closes with Why, Intention, Resources. Retrieved script explicitly says beginners should not start with Julie's full weekly program."
+  },
+  {
+    "id": 2,
+    "question": "When you say cut sugar, do you mean fruit and all carbohydrates too?",
+    "theme": "Food · Added sugar versus whole foods",
+    "bullets": [
+      "No, fruit and all carbohydrates are not the same thing as added sugar. That distinction matters. Otherwise a useful message about food quality can turn into a long list of perfectly ordinary foods people become afraid to eat.",
+      "Whole fruit brings fiber and nutrients. Beans, lentils, and whole grains can also belong on a healthy plate. Added sugar means sugar put into a food or drink during preparation, rather than the sugar naturally present in fruit.",
+      "The practical move is to look at one everyday drink or snack. Could you replace a sugary drink with water, or choose whole fruit instead of a sweet snack? Pick the change that feels easiest to repeat this week.",
+      "Keep the bigger plate in view: a protein source, vegetables or fruit, and fiber-rich foods. You do not need to make every meal a chemistry experiment. Reducing added sugar is not a promise that aging will reverse.",
+      "If you have diabetes, your carbohydrate amount, timing, and medication need an individual plan with your clinician or dietitian. Do not change medication around a webinar suggestion. The goal is nourishment and consistency, not fear of every carbohydrate."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIH News in Health - Plan Your Plate",
+        "url": "https://newsinhealth.nih.gov/2018/12/plan-your-plate"
+      },
+      {
+        "label": "Endotext - Dietary Advice for Individuals with Diabetes",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279012/"
+      },
+      {
+        "label": "Julie deck - slides 10-12",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely clarification after slide 11, The one thing every diet agrees on. The retrieved script's strong sugar language makes distinguishing added sugar from whole fruit important. Slide 10 supplies the whole-food, protein, and fiber framework."
+  },
+  {
+    "id": 3,
+    "question": "Do I need animal protein to maintain muscle, or can I do this plant-based?",
+    "theme": "Food · Protein without diet ideology",
+    "bullets": [
+      "You do not have to turn this into a contest between plants and animals. The useful question is whether your overall eating pattern gives you enough nourishment and protein, in a form you enjoy and can afford.",
+      "Plant protein can come from beans, lentils, tofu, tempeh, nuts, and seeds. Animal options include fish, eggs, dairy, and lean poultry. A varied plate matters more than winning an argument about which label belongs on your diet.",
+      "Try one practical check tomorrow: look at breakfast and name the protein source. If there isn't an obvious one, consider adding something that suits your preferences, such as yogurt or tofu. Start with that meal, not a complete overhaul.",
+      "Protein belongs alongside the rest of the foundation, including strength activity, enough food overall, and vegetables and other fiber-rich foods. A protein target is not a substitute for the whole plate, and more is not automatically better for everyone.",
+      "Ask a registered dietitian or clinician about your needs if you have kidney disease, poor appetite, unintentional weight loss, or a restrictive diet. Personal numbers in a talk are examples, not prescriptions. Build a sustainable pattern around your own health."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIH News in Health - A Closer Look at What You Eat",
+        "url": "https://newsinhealth.nih.gov/sites/nihNIH/files/2023/August/NIHNiHAug2023.pdf"
+      },
+      {
+        "label": "Endotext - Protein sources and individualized nutrition",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279012/"
+      },
+      {
+        "label": "Julie deck - slide 10",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question from slide 10, Take the religion out of your diet. Retrieved script says Protein is the floor and explicitly labels Julie's protein number personal, not a prescription; this answer avoids repeating it as a universal target."
+  },
+  {
+    "id": 4,
+    "question": "Should I prioritize weights or cardio, and how do I start if my joints hurt?",
+    "theme": "Movement · Strength, aerobic fitness, mobility, balance",
+    "bullets": [
+      "Think of movement as several jobs, not one competition. Strength, aerobic activity, balance, and flexibility each have a place. You do not need hard intervals to begin, and you do not need to do everything today.",
+      "VO2 max describes how much oxygen your body can use during hard exercise. It is a fitness measure, not a demand that beginners sprint. Start with activity you can tolerate and build gradually rather than chasing somebody else's numbers.",
+      "A practical first step is to schedule a short, comfortable activity session and a conversation about safe strengthening. Walking, cycling, or water activity may suit different people. Choose the option your joints tolerate rather than forcing the most impressive workout.",
+      "The broader adult goal includes regular aerobic activity and strengthening at least twice weekly, but that is a destination, not your entrance exam. A manageable beginning leaves room to learn technique, recover, and discover what fits your actual week.",
+      "Persistent joint pain deserves assessment and an adapted plan, often with a physiotherapist. Stop for chest pain, faintness, or unusual breathlessness and seek medical help. Pain is not a character test; the purpose is preserving function, not proving toughness."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIA - Healthy Aging Tips for Older Adults",
+        "url": "https://www.nia.nih.gov/health/caregiving/healthy-aging-tips-older-adults-your-life"
+      },
+      {
+        "label": "Julie deck - slides 14-15",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely adaptation question after slides 14–15 show four movement types and Julie's weekly protocol. Retrieved script defines VO2 max and conversational cardio, then says the displayed week is more than beginners need on day one."
+  },
+  {
+    "id": 5,
+    "question": "I keep waking at 3 a.m., especially around menopause. What should I try first?",
+    "theme": "Sleep · Regularity and menopausal symptoms",
+    "bullets": [
+      "Waking at three does not mean you have failed at sleep. During menopause, sleep can become difficult, and night sweats may be part of it. But the clock time alone does not tell us the cause.",
+      "Begin with a repeatable rhythm rather than trying to copy a nine o'clock bedtime. Keep a fairly consistent wake time and give yourself a realistic opportunity to sleep. A cool, dark, quiet room and a gentle wind-down are useful foundations.",
+      "Your practical action is a simple sleep diary for a week: bedtime, awakenings, wake time, caffeine, alcohol, and whether you felt hot. Bring that information to an appointment if the problem persists. A notebook can make the conversation more specific.",
+      "If hot flashes or night sweats are disturbing sleep, ask about menopause treatment options. Hormone therapy is one possible conversation, not an automatic answer. Cognitive behavioral therapy for insomnia also has evidence for women with menopausal sleep problems.",
+      "Seek assessment for persistent insomnia, loud snoring, gasping, or significant daytime sleepiness. There may be something treatable beyond routine. Please do not stack sleep supplements or sedating medicines on your own; good sleep support starts by understanding what is happening."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIA - Healthy aging and sleep",
+        "url": "https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging"
+      },
+      {
+        "label": "NIA - Menopause research and insomnia treatment",
+        "url": "https://www.nia.nih.gov/news/research-explores-impact-menopause-womens-health-and-aging"
+      },
+      {
+        "label": "Julie deck - slides 6, 8, 17",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question linking slide 6's menopause layer with slide 8's sleep repair shift. Retrieved script says Borrow the order, not my clock; this draft preserves that message without promising a particular bedtime will resolve insomnia."
+  },
+  {
+    "id": 6,
+    "question": "Do I need intermittent fasting, and is a longer fast better for longevity?",
+    "theme": "Food timing · Adequate nutrition before restriction",
+    "bullets": [
+      "No, you do not need intermittent fasting, and longer is not automatically better. An eating window is one tool, not the foundation. Food quality, enough nourishment, and a pattern you can maintain come first.",
+      "Studies of fasting and time-restricted eating show some promising metabolic results, but they do not establish that a particular schedule makes everyone live longer. We still need better long-term evidence, especially for older adults and people with medical conditions.",
+      "A practical starting action is simply to write down when you eat for a few days. Notice whether late meals fit poorly with your sleep. That gives you something concrete to discuss without immediately skipping meals or setting an aggressive window.",
+      "Be particularly cautious if you take insulin or other glucose-lowering medicines, need medication with food, are pregnant, have a history of disordered eating, or struggle to maintain weight. Those situations need individual professional advice, not a generic fasting challenge.",
+      "If a clinician helps you choose an eating schedule, protect adequate protein and overall nutrition within it. Do not adjust medication yourself. The aim is supporting health in your real life, not collecting hours without food as if they were points."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIA - Calorie restriction and fasting diets",
+        "url": "https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know"
+      },
+      {
+        "label": "NIH News in Health - To Fast or Not to Fast",
+        "url": "https://newsinhealth.nih.gov/2019/12/fast-or-not-fast"
+      },
+      {
+        "label": "NIDDK - Intermittent fasting considerations",
+        "url": "https://www.niddk.nih.gov/health-information/professionals/diabetes-discoveries-practice/patients-intermittent-fasting"
+      },
+      {
+        "label": "Julie deck - slides 12, 17",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question after the dinner-timing action in slide 12 and daily protocol in slide 17. Retrieved script describes an 8 a.m.–6 p.m. personal window; this answer deliberately does not turn it into a prescription."
+  },
+  {
+    "id": 7,
+    "question": "I can't switch my mind off. Do I have to meditate to manage stress?",
+    "theme": "Stress · Accessible practice, not perfect stillness",
+    "bullets": [
+      "You do not have to become a different person or make your mind completely blank. Mindfulness is about noticing what is happening and returning your attention, not passing a test in perfect stillness.",
+      "Research suggests mindfulness practices may help with stress symptoms and sleep, but results vary. It is not a guarantee that a hormone level will change, and one person's experience cannot tell us exactly what will happen for someone else.",
+      "For a practical start, take one quiet minute between two activities. Sit comfortably, notice your feet on the floor, and allow your breathing to stay easy. If your mind wanders, simply notice that and return without turning it into criticism.",
+      "If sitting quietly is not helpful, consider a gentle walk, supportive conversation, or another manageable pause. The useful question is what helps you make room for recovery. Your resources include other people and practical support, not only another task to complete.",
+      "Meditation and breathing exercises can sometimes increase distress, particularly with certain mental health conditions or trauma histories. Stop if you feel worse and seek appropriate support. These practices should complement care, not replace treatment for persistent anxiety, depression, or overwhelming stress."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NCCIH - Stress: evidence and safety",
+        "url": "https://www.nccih.nih.gov/health/stress"
+      },
+      {
+        "label": "Julie deck - slides 16, 21",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question from slide 16, The layer people skip. Retrieved script discusses meditation and physiological sighs while saying personal experience is not a promise. This draft offers a gentle alternative without inventing Julie's personal results."
+  },
+  {
+    "id": 8,
+    "question": "Which supplements should I take, and do I really need all those tests first?",
+    "theme": "Supplements · Notebook first, targeted clinical decisions",
+    "bullets": [
+      "The useful answer is not a shopping list. A supplement can be appropriate for a specific need, but somebody else's routine does not establish your need. Start with the question you are trying to answer.",
+      "Before buying anything, write down what you already take, including doses, medicines, powders, and occasional products. That is your practical action this week. Bring the list to a clinician or pharmacist so the whole picture is visible in one place.",
+      "Testing should also have a purpose. Ask which test is relevant to your symptoms, diet, history, or medications, and how the result would change care. The tests mentioned in the talk are conversation prompts, not a screening package everyone must order.",
+      "Supplements can interact with medicines, cause unwanted effects, or simply do nothing useful. More is not automatically better. A low price does not prove value, and an expensive panel does not automatically provide an answer worth acting on.",
+      "If a clinician identifies a deficiency or another clear indication, discuss the appropriate product, dose, duration, and follow-up with them. Keep food, sleep, movement, and routine healthcare underneath that decision. Test then buy means thoughtful decisions, not buying every available test."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIA - Dietary Supplements for Older Adults",
+        "url": "https://www.nia.nih.gov/health/vitamins-and-supplements/dietary-supplements-older-adults"
+      },
+      {
+        "label": "Julie deck - slides 18-19",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question after slide 18, You don't need a lab. You need a notebook, and slide 19, Test. Then buy. Retrieved script names vitamin D, homocysteine, and an unspecified red blood cell nutrient panel; it also says to ask which tests make sense individually."
+  },
+  {
+    "id": 9,
+    "question": "Does a low DunedinPACE score prove you're younger, and should I buy the test?",
+    "theme": "Measurement · Pace is not age or a lifespan guarantee",
+    "bullets": [
+      "DunedinPACE is a research speedometer, not a birthday calculator. It estimates a pace of aging from patterns of DNA methylation in blood. It does not establish that you have literally become a particular number of years younger.",
+      "A value around one is the reference pace; lower values indicate a slower estimated pace. That does not convert directly into years added to your life, and it cannot tell an individual when they will die.",
+      "The measure has research validation and associations with health outcomes, which makes it interesting. But showing that a score predicts risk is different from proving that lowering the score with a product will prevent disease or extend someone's life.",
+      "Before spending money, ask: what decision would this result change? If the answer is none, consider putting those resources toward basics or routine care instead. A test should serve your life, not become a score you live for.",
+      "If you do test, discuss interpretation and uncertainty with a qualified clinician. Do not stop prescribed treatment or buy an intervention because of a single result. No personal score proves that a routine caused age reversal; one person is not a trial."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "Duke University - DunedinPACE",
+        "url": "https://moffittcaspi.trinity.duke.edu/dunedinpace"
+      },
+      {
+        "label": "Biomarkers of Aging - surrogate endpoint limitations",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11088934/"
+      },
+      {
+        "label": "Julie deck - slide 3",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question after slide 3's prominently displayed pace scores. Retrieved script repeatedly qualifies the story as one test, one person, not a clinical trial. This card distinguishes research validation from clinical proof and avoids treating score arithmetic as literal years regained."
+  },
+  {
+    "id": 10,
+    "question": "Is menopause hormone therapy part of the foundation, and how do I know whether it is right for me?",
+    "theme": "Menopause · Individualized treatment, not optional wellness icing",
+    "bullets": [
+      "Menopause care belongs in healthcare, not a shopping basket of wellness extras. Symptoms can disrupt sleep and daily life. Calling it a layer means taking those needs seriously, not saying every woman must take hormones.",
+      "Hormone therapy can help with symptoms such as hot flashes and night sweats, and can help prevent bone loss. Whether it is suitable depends on your symptoms, age, time since menopause, medical history, and the particular treatment being considered.",
+      "For many healthy women with bothersome symptoms who are younger than sixty or within ten years of menopause, the balance can be more favorable. That is a starting framework for a consultation, not a guarantee of safety or a rigid personal deadline.",
+      "Write down your symptoms, their effect on daily life, your last period if known, and your questions. Bring your medical and family history and medication list to a clinician experienced in menopause care.",
+      "Ask about benefits, risks, alternatives, and follow-up, including nonhormonal options when appropriate. Do not start or stop treatment from this discussion alone. Hormone therapy is not a blanket anti-aging prescription, and no one needs to earn symptom care by perfecting every lifestyle habit."
+    ],
+    "seconds": 90,
+    "status": "Prepared draft",
+    "sources": [
+      {
+        "label": "NIH - Menopause treatment and management",
+        "url": "https://health.nih.gov/womens-health/menopause"
+      },
+      {
+        "label": "NIA - Menopause research and treatment considerations",
+        "url": "https://www.nia.nih.gov/news/research-explores-impact-menopause-womens-health-and-aging"
+      },
+      {
+        "label": "Julie deck - slides 5-6",
+        "url": "https://gitteromri-ux.github.io/lla-masterclass-syllabus/slide-canvas/julie/"
+      }
+    ],
+    "why": "Inferred likely question from the explicit slide 6 headline, Menopause therapy is a layer, not icing. Chosen over a standalone sauna question because the deck elevates menopause to a foundation; retrieved script says Your doctor. Not a webinar."
+  }
+]
